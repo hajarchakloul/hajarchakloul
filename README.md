@@ -6,9 +6,11 @@
           &nbsp; &nbsp;✔️ php  <br>
           &nbsp; &nbsp;✔️ laravel  <br>
           &nbsp; &nbsp;✔️ python   <br>
-         &nbsp; &nbsp;✔️ DateBases <br>
-         &nbsp; &nbsp;✔️ Design  <br>
-        &nbsp; &nbsp;✔️ Tools :  GIT | GITHUB <br>
+             &nbsp; &nbsp;✔️ DateBases <br>
+             &nbsp; &nbsp;✔️ Design  <br>
+          &nbsp; &nbsp;✔️ Tools :  GIT | GITHUB <br>
+          &nbsp; &nbsp;✔️ Web Service  <br>
+
 
 
 
@@ -17,7 +19,6 @@
           &nbsp; &nbsp;✔️ Javascript <br>
           &nbsp; &nbsp;✔️ React <br> 
           &nbsp; &nbsp;✔️ bootstrap <br>
-          &nbsp; &nbsp;✔️ Web Service  <br>
           
 
         
