@@ -1,5 +1,5 @@
 ### Hi there 👋![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=radical&show_icons=true)
-## Fullstack Develper !!
+## Fullstack Developer !!
 -  Hi 👋, I’m @Hajar CHAKLOUL  Developer BackEnd & FrontEnd
 - 👀 I’m interested in :<br>
   BackEnd <br>
@@ -28,7 +28,6 @@
 - 📫 How to reach me : Email : hajarchakloul@gmail.com  <br>
 ### 💻 Top Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajarchakloul&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
