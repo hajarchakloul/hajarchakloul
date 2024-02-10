@@ -1,7 +1,5 @@
-### Hi there 👋
-
-**hajarchakloul/hajarchakloul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=radical&show_icons=true)
+## Spring boot Developer, and Data Scientist !!
 -  Hi 👋, I’m @Sara BOURAYA Java Developer BackEnd & Data Scientist
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
@@ -25,5 +23,6 @@
 - 👯 I’m looking to collaborate with other companies like freelance <br>
 - 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
 - 📫 How to reach me : Email : sarabouraya95@gmail.com / Phone : +212 666 756 069 <br>
+
 
 
