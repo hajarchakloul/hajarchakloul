@@ -2,27 +2,33 @@
 ## Spring boot Developer, and Data Scientist !!
 -  Hi 👋, I’m @Hajar CHAKLOUL  Developer BackEnd & FrontEnd
 - 👀 I’m interested in :<br>
-        ☕ BackEnd <br>
-          &nbsp; &nbsp;✔️ Java : java doc | Core Java | POO | JDBC | IO | Jee  <br>
-          &nbsp; &nbsp;✔️ Java 8 : STREAM | LAMBDA EPRESSIONS | FUNCTIONAL INTERFACES | OPTIONAL | DEFAULT | ... <br>
-          &nbsp; &nbsp;✔️ Spring : MVC | BOOT | DATA/JPA | SECURITY | MICROSERVICES | CLOUD | RESTFULL  <br>
-          &nbsp; &nbsp;✔️ Tools : MAVEN | GIT | GITHUB <br>
-          &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
-          &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
-          &nbsp; &nbsp;✔️ Web Service : JSON | XML | YAML <br>
-          &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | H2<br>
-          &nbsp; &nbsp;✔️ Others : LOMBOK | Hibernate <br>
-        🤖 Artificial Intelligence <br>
-          &nbsp; &nbsp;✔️ DATA MINING <br>
-          &nbsp; &nbsp;✔️ MACHINE LEARNING <br>
-          &nbsp; &nbsp;✔️ DEEP LEARNING <br>
-          &nbsp; &nbsp;✔️ INFORMATION RETRIEVAL <br>
+  BackEnd <br>
+          &nbsp; &nbsp;✔️ php  <br>
+          &nbsp; &nbsp;✔️ laravel  <br>
+          &nbsp; &nbsp;✔️ python   <br>
+         &nbsp; &nbsp;✔️ DateBases <br>
+         &nbsp; &nbsp;✔️ Design  <br>
+        &nbsp; &nbsp;✔️ Tools :  GIT | GITHUB <br>
+
+
+
+
+   FrontEnd <br>
+          &nbsp; &nbsp;✔️ Javascript <br>
+          &nbsp; &nbsp;✔️ React <br> 
+          &nbsp; &nbsp;✔️ bootstrap <br>
+          &nbsp; &nbsp;✔️ Web Service  <br>
+          
+
         
-- 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
+- 🌱 I’m currently Intern at OFPPT in Full-stack Web Development <br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
-- 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
-- 📫 How to reach me : Email : sarabouraya95@gmail.com / Phone : +212 666 756 069 <br>
+- 🥅 2024 Goals: Learn more about Dart , Flutter, AI <br>
+- 📫 How to reach me : Email : hajarchakloul@gmail.com  <br>
+### 💻 Top Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabouraya&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
